@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.2.0)
+  - Eureka (1.3.1)
+  - Mapbox-iOS-SDK (3.1.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Eureka
+  - Mapbox-iOS-SDK
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  Eureka: 10df73e578ed8ec1f30c8fda5b4ffc8739786b74
+  Mapbox-iOS-SDK: 8e94e5a2548f0514d3ef04abed3b0140f3cec9e1
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
