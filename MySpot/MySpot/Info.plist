@@ -22,6 +22,10 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoiZnJhbmtseWZsaW5rcyIsImEiOiJjaWt5MHg4d2owMHpldnltM25jemJ4OTluIn0.8n5duBR78EFwuyQc-uCmQw</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>位置情報を利用してもよろしいですか？</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

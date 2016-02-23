@@ -324,9 +324,10 @@
 			baseConfigurationReference = BB1DCF9D33871071B270B74C /* Pods-MySpot.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = MySpot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.MySpot;
+				PRODUCT_BUNDLE_IDENTIFIER = com.myspot.;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -336,9 +337,10 @@
 			baseConfigurationReference = 68C9ED200D551B5DD1C8A25D /* Pods-MySpot.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = MySpot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.MySpot;
+				PRODUCT_BUNDLE_IDENTIFIER = com.myspot.;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
